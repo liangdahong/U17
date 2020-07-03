@@ -42,7 +42,7 @@ DEPENDENCIES:
   - UINavigation-SXFixSpace
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - Alamofire
     - EmptyDataSet-Swift
     - HandyJSON
@@ -80,4 +80,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: b93c84114ab0eed503b642162d77e21e5b2f603e
 
-COCOAPODS: 1.7.5
+COCOAPODS: 1.8.4
